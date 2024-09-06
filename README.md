@@ -4,3 +4,5 @@
 </div>
 <h3>My Profession</h3>
 <img src='https://skillicons.dev/icons?i=html,css,tailwindcss,js,react' alt='languages'>
+<h3>My Resuome</h3>
+<a>https://aliqco.github.io/GoldenCoffee2/</a>
